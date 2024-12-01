@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "stdlib.h": "c",
+    "_stdlib.h": "c",
+    "alloca.h": "c"
+  },
+  "C_Cpp.errorSquiggles": "disabled"
+}
